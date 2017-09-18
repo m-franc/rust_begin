@@ -1,0 +1,8 @@
+[package]
+name = "begin"
+version = "0.1.0"
+authors = ["mfranc <mfranc@student.42.fr>"]
+
+[dependencies]
+
+rand = "^0.3.0"
